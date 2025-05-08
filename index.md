@@ -1,4 +1,4 @@
-# Jiayuan(Joanne) Ren
+# Jiayuan (Joanne) Ren
 
 📍 Amsterdam | 📧 [jiayuan.ren.j@gmail.com](mailto:jiayuan.ren.j@gmail.com) | 📱 +31 0620291764  
 🔗 [LinkedIn](https://www.linkedin.com/in/jiayuan-ren-1a7a88226/) 
