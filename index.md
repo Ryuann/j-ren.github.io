@@ -64,9 +64,9 @@ As a Business Data Science student, I have a keen enthusiasm for academic resear
 
 ---
 
-## 🧠 Projects
+## 💻 Projects
 
-**🏆 Circular Equipment**, Philips Student Hackathon 2023 – *First Place*  
+**Circular Equipment**, Philips Student Hackathon 2023 – *First Place*  
 - Designed a sustainable proposal for circular use of large medical devices.  
 - Analyzed industry trends and presented a business model for circular management.  
 - Presented results to a professional jury and secured first place.
