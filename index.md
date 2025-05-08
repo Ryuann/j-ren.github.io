@@ -1,0 +1,80 @@
+# Jiayuan(Joanne) Ren
+
+📍 Amsterdam | 📧 [jiayuan.ren.j@gmail.com](mailto:jiayuan.ren.j@gmail.com) | 📱 +31 0620291764  
+🔗 [LinkedIn](https://www.linkedin.com/in/jiayuan-ren-1a7a88226/) 
+
+---
+
+## 👤 Profile
+
+As a Business Data Science student, I have a keen enthusiasm for academic research in data. My aptitude for problem-solving and logical reasoning, combined with a passion for working with numerical data, has fueled my dedication to exploring and applying advanced mathematical principles within the realm of data science. I am actively seeking opportunities to enhance my skills and contribute to research in data analytics or data science.
+
+---
+
+## 🛠 Skills
+
+- **Languages**: Python (pandas, numpy, sklearn, networkx), R, SQL (BigQuery, SQLite), Matlab  
+- **Tools**: Power BI, Microsoft Excel  
+
+---
+
+## 💼 Professional Experience
+
+**Data Science Research Intern**, KPN  
+*Nov 2024 – Present* | *Amsterdam & Rotterdam,Netherlands*  
+- Participating in a joint research project with Erasmus University Rotterdam.  
+- Analyzing emotional expressions in service calls and interactions.  
+- Assisting in dataset structuring and preprocessing for academic research.
+
+**Data Analyst Intern**, Group Digital, IKEA  
+*Sep 2023 – Jul 2024*  | *Amsterdam,Netherlands*  
+- Developed a demand prediction model using supervised learning techniques for service classification and sales forecasting.  
+- Applied time series models (ARIMA, Prophet) to analyze and predict brand search trends in Germany.  
+- Used panel VAR and impulse response functions (IRF) to study inter-variable dynamics.  
+- Built and deployed a live dashboard for real-time analytics and cross-team decision support.
+
+---
+
+## 🎓 Education
+
+**Research Master in Business Data Science**, Tinbergen Institute  
+*Sep 2024 – Present*  
+- Courses: Machine Learning, Parallel Computing, Big Data, Simulation & Optimization, Deep Learning
+
+**BSc in Business Analytics**, University of Amsterdam  
+*Sep 2021 – Jun 2024* | *Cum Laude (8.7/10)*  
+- Thesis: Linking Search Metrics to Sales Performance (Grade: 9.0/10)  
+- Relevant Courses: Machine Learning, Algorithms, OOP, Finance, Advanced Linear Algebra & Stats  
+- Honours Programme: Interdisciplinary studies combining data science with philosophy, psychology, etc.
+  
+---
+
+## 🎓 Academic Leadership & Committees
+**Student Representative**, Educational Board, Tinbergen Institute  
+*Sep 2024 – Present*  
+- Evaluating curriculum structure, student services, and teaching quality through structured feedback.  
+- Reviewing teaching and examination regulations to ensure fairness and clarity.  
+- Acting as a liaison between students and faculty, facilitating data-driven improvements.
+
+**Vice Chair**, Programme Committee of Data Science and Business Analytics, University of Amsterdam  
+*Feb 2022 – Jul 2024*  
+- Contributed to curriculum design and academic policy decisions.  
+- Represented student perspectives in formal discussions with faculty and administration.  
+- Proposed actionable solutions and improvements based on student feedback.
+
+---
+
+## 🧠 Projects
+
+**🏆 Circular Equipment**, Philips Student Hackathon 2023 – *First Place*  
+- Designed a sustainable proposal for circular use of large medical devices.  
+- Analyzed industry trends and presented a business model for circular management.  
+- Presented results to a professional jury and secured first place.
+
+---
+
+## 🌐 Languages
+
+- Chinese / Mandarin: Native  
+- English: C1  
+- Dutch: A2
