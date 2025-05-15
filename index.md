@@ -1,7 +1,7 @@
 # Jiayuan (Joanne) Ren
 
 📍 Amsterdam | 📧 [jiayuan.ren.j@gmail.com](mailto:jiayuan.ren.j@gmail.com) | 📱 +31 0620291764  
-🔗 [LinkedIn](https://www.linkedin.com/in/jiayuan-joanne-ren-1a7a88226/) 
+🔗 [LinkedIn](https://www.linkedin.com/in/jiayuan-joanne-ren-1a7a88226/)  
 
 ---
 
@@ -13,21 +13,21 @@ As a Business Data Science student, I have a keen enthusiasm for academic resear
 
 ## 🛠 Skills
 
-- **Languages**: Python (pandas, numpy, sklearn, networkx), R, SQL (BigQuery, SQLite), Matlab  
-- **Tools**: Power BI, Microsoft Excel  
+- **Languages**: Python (pandas, numpy, sklearn, networkx), R, SQL (BigQuery, SQLite)  
+- **Tools**: Power BI, Microsoft Excel, SPSS, Looker Studio  
 
 ---
 
 ## 💼 Professional Experience
 
-**Data Science Research Intern**, KPN  
-*Nov 2024 – Present* | *Amsterdam & Rotterdam,Netherlands*  
+**[Data Science Research Intern](https://www.overons.kpn/nl)**, KPN  
+*Nov 2024 – Present* | *Amsterdam & Rotterdam, Netherlands*  
 - Participating in a joint research project with Erasmus University Rotterdam.  
 - Analyzing emotional expressions in service calls and interactions.  
 - Assisting in dataset structuring and preprocessing for academic research.
 
-**Data Analyst Intern**, Group Digital, IKEA  
-*Sep 2023 – Jul 2024*  | *Amsterdam,Netherlands*  
+**[Data Analyst Intern](https://tech.ingka.com/)**, Group Digital, IKEA  
+*Sep 2023 – Jul 2024* | *Amsterdam, Netherlands*  
 - Developed a demand prediction model using supervised learning techniques for service classification and sales forecasting.  
 - Applied time series models (ARIMA, Prophet) to analyze and predict brand search trends in Germany.  
 - Used panel VAR and impulse response functions (IRF) to study inter-variable dynamics.  
@@ -37,26 +37,27 @@ As a Business Data Science student, I have a keen enthusiasm for academic resear
 
 ## 🎓 Education
 
-**Research Master in Business Data Science**, Tinbergen Institute  
+**[Research Master in Business Data Science](https://businessdatascience.nl/home)**, Tinbergen Institute  
 *Sep 2024 – Present*  
 - Courses: Machine Learning, Parallel Computing, Big Data, Simulation & Optimization, Deep Learning
 
-**BSc in Business Analytics**, University of Amsterdam  
+**[BSc in Business Analytics](https://www.uva.nl/en/programmes/bachelors/business-analytics/business-analytics.html)**, University of Amsterdam  
 *Sep 2021 – Jun 2024* | *Cum Laude (8.7/10)*  
 - Thesis: Linking Search Metrics to Sales Performance (Grade: 9.0/10)  
 - Relevant Courses: Machine Learning, Algorithms, OOP, Finance, Advanced Linear Algebra & Stats  
 - Honours Programme: Interdisciplinary studies combining data science with philosophy, psychology, etc.
-  
+
 ---
 
 ## 🎓 Academic Leadership & Committees
-**Student Representative**, Educational Board, Tinbergen Institute  
+
+**Student Representative**, [Educational Board](https://tinbergen.nl/composition-of-boards-and-councils), Tinbergen Institute  
 *Sep 2024 – Present*  
 - Evaluating curriculum structure, student services, and teaching quality through structured feedback.  
 - Reviewing teaching and examination regulations to ensure fairness and clarity.  
 - Acting as a liaison between students and faculty, facilitating data-driven improvements.
 
-**Vice Chair**, Programme Committee of Data Science and Business Analytics, University of Amsterdam  
+**Vice Chair**, [Programme Committee of Data Science and Business Analytics](https://www.uva.nl/en/about-the-uva/organisation/participation-in-decision-making/programme-committees/programme-committees.html), University of Amsterdam  
 *Feb 2022 – Jul 2024*  
 - Contributed to curriculum design and academic policy decisions.  
 - Represented student perspectives in formal discussions with faculty and administration.  
@@ -66,7 +67,7 @@ As a Business Data Science student, I have a keen enthusiasm for academic resear
 
 ## 💻 Projects
 
-**Circular Equipment**, Philips Student Hackathon 2023 – *First Place*  
+**[Circular Equipment](https://www.philips.nl/en/a-w/hackathon.html)**, Philips Student Hackathon 2023 – *First Place*  
 - Designed a sustainable proposal for circular use of large medical devices.  
 - Analyzed industry trends and presented a business model for circular management.  
 - Presented results to a professional jury and secured first place.
