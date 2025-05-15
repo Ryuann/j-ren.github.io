@@ -1,11 +1,7 @@
-# Jiayuan (Joanne) Ren
+## 👤 Profile
 
 📍 Amsterdam | 📧 [jiayuan.ren.j@gmail.com](mailto:jiayuan.ren.j@gmail.com) | 📱 +31 0620291764  
 🔗 [LinkedIn](https://www.linkedin.com/in/jiayuan-joanne-ren-1a7a88226/)  
-
----
-
-## 👤 Profile
 
 As a Business Data Science student, I have a keen enthusiasm for academic research in data. My aptitude for problem-solving and logical reasoning, combined with a passion for working with numerical data, has fueled my dedication to exploring and applying advanced mathematical principles within the realm of data science. I am actively seeking opportunities to enhance my skills and contribute to research in data analytics or data science.
 
