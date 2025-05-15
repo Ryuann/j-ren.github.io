@@ -20,18 +20,19 @@ As a Business Data Science student, I have a keen enthusiasm for academic resear
 
 ## 💼 Professional Experience
 
-**[Data Science Research Intern](https://www.overons.kpn/nl)**, KPN  
+**Data Science Research Intern**, [KPN](https://www.overons.kpn/nl)  
 *Nov 2024 – Present* | *Amsterdam & Rotterdam, Netherlands*  
 - Participating in a joint research project with Erasmus University Rotterdam.  
 - Analyzing emotional expressions in service calls and interactions.  
 - Assisting in dataset structuring and preprocessing for academic research.
 
-**[Data Analyst Intern](https://tech.ingka.com/)**, Group Digital, IKEA  
+**Data Analyst Intern**, [Group Digital, IKEA](https://tech.ingka.com/)  
 *Sep 2023 – Jul 2024* | *Amsterdam, Netherlands*  
 - Developed a demand prediction model using supervised learning techniques for service classification and sales forecasting.  
 - Applied time series models (ARIMA, Prophet) to analyze and predict brand search trends in Germany.  
 - Used panel VAR and impulse response functions (IRF) to study inter-variable dynamics.  
 - Built and deployed a live dashboard for real-time analytics and cross-team decision support.
+
 
 ---
 
@@ -67,10 +68,10 @@ As a Business Data Science student, I have a keen enthusiasm for academic resear
 
 ## 💻 Projects
 
-**[Circular Equipment](https://www.philips.nl/en/a-w/hackathon.html)**, Philips Student Hackathon 2023 – *First Place*  
-- Designed a sustainable proposal for circular use of large medical devices.  
-- Analyzed industry trends and presented a business model for circular management.  
-- Presented results to a professional jury and secured first place.
+**Circular Equipment**, Philips Student Hackathon 2023 – *Group Winner*  
+- Led a team in designing a sustainable solution for circular use of large medical devices.  
+- Analyzed industry trends and presented a viable business model for circular equipment management.  
+- Recognized as the winning team in the “Circular Equipment” track by a professional jury.
 
 ---
 
