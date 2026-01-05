@@ -3,15 +3,14 @@
 📍 Amsterdam | 📧 [jiayuan.ren.j@gmail.com](mailto:jiayuan.ren.j@gmail.com) | 📱 +31 0620291764  
 🔗 [LinkedIn](https://www.linkedin.com/in/jiayuan-joanne-ren-1a7a88226/)  
 
-As a Business Data Science student, I have a keen enthusiasm for academic research in data. My aptitude for problem-solving and logical reasoning, combined with a passion for working with numerical data, has fueled my dedication to exploring and applying advanced mathematical principles within the realm of data science. I am actively seeking opportunities to enhance my skills and contribute to research in data analytics or data science.
+Analytical Data Scientist with a strong academic background in Econometrics, Statistics, NLP, and Machine Learning. Proven ability to solve complex problems through advanced mathematical principles. Proficient in Python, R, and SQL, with a dedicated focus on applying data science to solve real-world business challenges.
 
 ---
 
 ## 🛠 Skills
 
-- **Languages**: Python (pandas, numpy, sklearn, networkx), R, SQL (BigQuery, SQLite)  
-- **Tools**: Power BI, Microsoft Excel, SPSS, Looker Studio  
-
+- **Languages**: Python (Pandas, Scikit-learn, NetworkX, NLTK/SpaCy), R, SQL(BigQuery), STATA.
+- **Tools**: Google Analytics, Power BI, Microsoft Excel, Dataiku, Looker Studio  
 ---
 
 ## 💼 Professional Experience
@@ -36,13 +35,12 @@ As a Business Data Science student, I have a keen enthusiasm for academic resear
 
 **[Research Master in Business Data Science](https://businessdatascience.nl/home)**, Tinbergen Institute  
 *Sep 2024 – Present*  
-- Courses: Machine Learning, Parallel Computing, Big Data, Simulation & Optimization, Deep Learning
+- Focus: Machine Learning, Parallel Computing, Big Data, Simulation & Optimization, Deep Learning
 
 **[BSc in Business Analytics](https://www.uva.nl/en/programmes/bachelors/business-analytics/business-analytics.html)**, University of Amsterdam  
 *Sep 2021 – Jun 2024* | *Cum Laude (8.7/10)*  
-- Thesis: Linking Search Metrics to Sales Performance (Grade: 9.0/10)  
-- Relevant Courses: Machine Learning, Algorithms, OOP, Finance, Advanced Linear Algebra & Stats  
-- Honours Programme: Interdisciplinary studies combining data science with philosophy, psychology, etc.
+- Thesis: Linking Search Metrics to Sales Performance (Grade: 9.0/10) - Applied advanced regression models to identify digital drivers of revenue.
+- Honours Programme: Interdisciplinary research combining data science with behavioral psychology.
 
 ---
 
